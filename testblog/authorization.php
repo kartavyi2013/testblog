@@ -117,7 +117,7 @@ HERE;
 
 <p class="submit"><input type="submit" name="commit" value="Войти">
 <div class="login-help">
-      <a href="send_pass">Забыли пароль?</a> Восстановите его!
+      <a href="send_pass.php">Забыли пароль?</a> Восстановите его!
     </div>
 </p>
 
